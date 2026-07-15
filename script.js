@@ -8,9 +8,9 @@ const PASSWORD = "Betu29022005";
 
 // Photos
 const photos = [
-    "images/betu1jpeg",
-    "images/betu2.jpeg",
-    "images/betu3.jpeg"
+    "betu1jpeg",
+    "betu2.jpeg",
+    "betu3.jpeg"
 ];
 
 // Love Letter
